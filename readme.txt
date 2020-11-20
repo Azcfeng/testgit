@@ -1,6 +1,1 @@
-1
-<<<<<<< HEAD
-hello
-=======
-hello world
->>>>>>> change file
+hello world!
